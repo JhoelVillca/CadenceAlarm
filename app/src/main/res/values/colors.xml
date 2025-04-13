@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales -->
+    <color name="background_dark">#1E1E1E</color>
+    <color name="wine_red">#8B0000</color>
+    
+    <!-- Colores de texto -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#BDBDBD</color>
+    
+    <!-- Colores de sistema -->
+    <color name="divider">#424242</color>
+    <color name="surface_dark">#2D2D2D</color>
+    
+    <!-- Estados -->
+    <color name="error">#CF6679</color>
+    <color name="success">#03DAC5</color>
+</resources>
